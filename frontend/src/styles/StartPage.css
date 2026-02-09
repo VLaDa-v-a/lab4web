@@ -1,0 +1,138 @@
+.start-page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  padding: 20px;
+}
+
+.start-container {
+  width: 100%;
+  max-width: 500px;
+}
+
+.header {
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.header h1 {
+  margin: 0 0 20px 0;
+  color: #333;
+  font-size: 2em;
+}
+
+.student-info p {
+  margin: 5px 0;
+  color: #666;
+  font-size: 1.1em;
+}
+
+.login-card {
+  background: white;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.login-card h2 {
+  margin: 0 0 30px 0;
+  text-align: center;
+  color: #333;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 8px;
+  color: #333;
+  font-weight: 500;
+}
+
+.error-message {
+  background: #fee;
+  color: #c33;
+  padding: 12px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.button-group {
+  margin-top: 25px;
+}
+
+.button-group button {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+}
+
+.toggle-mode {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.link-button {
+  background: none;
+  border: none;
+  color: #667eea;
+  cursor: pointer;
+  font-size: 14px;
+  text-decoration: underline;
+}
+
+.link-button:hover {
+  color: #764ba2;
+}
+
+/* Tablet */
+@media (max-width: 1225px) and (min-width: 876px) {
+  .start-container {
+    max-width: 450px;
+  }
+  
+  .header h1 {
+    font-size: 1.8em;
+  }
+  
+  .login-card {
+    padding: 35px;
+  }
+}
+
+/* Mobile */
+@media (max-width: 875px) {
+  .start-page {
+    padding: 10px;
+  }
+  
+  .start-container {
+    max-width: 100%;
+  }
+  
+  .header {
+    padding: 20px;
+  }
+  
+  .header h1 {
+    font-size: 1.5em;
+  }
+  
+  .student-info p {
+    font-size: 1em;
+  }
+  
+  .login-card {
+    padding: 25px;
+  }
+}
+

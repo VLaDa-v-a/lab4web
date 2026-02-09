@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="lab4:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cbe3a42d-2cfa-4314-90ca-56c19e9b05da" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data_source_mapping.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/derby.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/classes/com/github/maria/FormBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/classes/com/github/maria/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/classes/com/github/maria/ResultBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/classes/com/github/maria/monitoring/AreaCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/classes/com/github/maria/monitoring/AreaCalculatorMBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/classes/com/github/maria/monitoring/MBeanInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/classes/com/github/maria/monitoring/PointsCounter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/classes/com/github/maria/monitoring/PointsCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/classes/com/github/maria/monitoring/PointsCounterMBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/classes/com/github/maria/utils/Checker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/classes/com/github/maria/utils/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/classes/com/github/maria/utils/Validator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/faces-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/lib/angus-activation-2.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/lib/antlr4-runtime-4.13.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/lib/byte-buddy-1.14.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/lib/checker-qual-3.42.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/lib/classmate-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/lib/error_prone_annotations-2.27.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/lib/gson-2.11.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/lib/hibernate-commons-annotations-6.0.6.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/lib/hibernate-core-6.5.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/lib/istack-commons-runtime-4.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/lib/jakarta.activation-api-2.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/lib/jakarta.inject-api-2.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/lib/jakarta.persistence-api-3.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/lib/jakarta.transaction-api-2.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/lib/jakarta.xml.bind-api-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/lib/jandex-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/lib/jaxb-core-4.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/lib/jaxb-runtime-4.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/lib/jboss-logging-3.5.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/lib/postgresql-42.7.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/lib/txw2-4.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/index.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/main.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/resources/images/graph.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/resources/scripts/clock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/resources/scripts/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/resources/styles/mainpage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/lab3_war_exploded/resources/styles/welcomepage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/classes/com/github/maria/FormBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/classes/com/github/maria/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/classes/com/github/maria/ResultBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/classes/com/github/maria/monitoring/AreaCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/classes/com/github/maria/monitoring/AreaCalculatorMBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/classes/com/github/maria/monitoring/MBeanInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/classes/com/github/maria/monitoring/PointsCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/classes/com/github/maria/monitoring/PointsCounterMBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/classes/com/github/maria/utils/Checker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/classes/com/github/maria/utils/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/classes/com/github/maria/utils/Validator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/faces-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/lib/angus-activation-2.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/lib/antlr4-runtime-4.13.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/lib/byte-buddy-1.14.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/lib/checker-qual-3.42.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/lib/classmate-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/lib/error_prone_annotations-2.27.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/lib/gson-2.11.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/lib/hibernate-commons-annotations-6.0.6.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/lib/hibernate-core-6.5.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/lib/istack-commons-runtime-4.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/lib/jakarta.activation-api-2.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/lib/jakarta.inject-api-2.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/lib/jakarta.persistence-api-3.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/lib/jakarta.transaction-api-2.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/lib/jakarta.xml.bind-api-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/lib/jandex-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/lib/jaxb-core-4.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/lib/jaxb-runtime-4.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/lib/jboss-logging-3.5.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/lib/postgresql-42.7.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/lib/txw2-4.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/index.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/main.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/resources/images/graph.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/resources/scripts/clock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/resources/scripts/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/resources/styles/mainpage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web3_war_exploded/resources/styles/welcomepage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/dolphin/FormBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/dolphin/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/dolphin/ResultBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/dolphin/ViewExpiredExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/dolphin/ViewExpiredExceptionHandlerFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/dolphin/utils/Checker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/dolphin/utils/DatabaseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/dolphin/utils/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/dolphin/utils/Validator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/faces-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/main.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/scripts/clock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/scripts/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/styles/mainpage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/styles/welcomepage.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VLaDa-v-a&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VLaDa-v-a/lab3web.git&quot;,
+    &quot;accountId&quot;: &quot;d9b07322-e29a-4a08-a9a0-ac0a2713ae9e&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="39L9KiXfRtIA5zOytWXOUa5u4tx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JBoss/WildFly Server.JBoss/WildFly 27.0.0.Final.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.lab4 [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.lab4 [package].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.41954023&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunDashboard">
+    <option name="configurationStatuses">
+      <map>
+        <entry key="JBossConfiguration">
+          <value>
+            <map>
+              <entry key="JBoss/WildFly 27.0.0.Final" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="JBoss/WildFly 27.0.0.Final" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss/WildFly 27.0.0.Final" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="lab4:war exploded">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="SERVER" />
+        <option name="DOMAIN" value="false" />
+        <option name="SERVER_GROUP" value="main-server-group" />
+        <option name="USERNAME" value="" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="JBoss" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50696" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="lab4:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbe3a42d-2cfa-4314-90ca-56c19e9b05da" name="Changes" comment="" />
+      <created>1770464423164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770464423164</updated>
+      <workItem from="1770464425805" duration="14733000" />
+      <workItem from="1770630945171" duration="1282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

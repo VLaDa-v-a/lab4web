@@ -1,0 +1,12 @@
+export const AUTH_LOGIN_SUCCESS = 'AUTH_LOGIN_SUCCESS';
+export const AUTH_LOGOUT = 'AUTH_LOGOUT';
+export const AUTH_ERROR = 'AUTH_ERROR';
+
+export const RESULTS_FETCH_SUCCESS = 'RESULTS_FETCH_SUCCESS';
+export const RESULTS_ADD = 'RESULTS_ADD';
+export const RESULTS_CLEAR = 'RESULTS_CLEAR';
+export const RESULTS_ERROR = 'RESULTS_ERROR';
+
+export const UI_SET_LOADING = 'UI_SET_LOADING';
+export const UI_SET_ERROR = 'UI_SET_ERROR';
+

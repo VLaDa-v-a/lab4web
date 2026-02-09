@@ -1,0 +1,87 @@
+/* Belle-style components CSS */
+
+.belle-input,
+.belle-select {
+  width: 100%;
+  padding: 12px 16px;
+  border: 2px solid #e0e0e0;
+  border-radius: 4px;
+  font-size: 16px;
+  font-family: inherit;
+  transition: all 0.2s ease;
+  background-color: white;
+}
+
+.belle-input:hover:not(:disabled),
+.belle-select:hover:not(:disabled) {
+  border-color: #c0c0c0;
+}
+
+.belle-input:focus,
+.belle-select:focus {
+  outline: none;
+  border-color: #667eea;
+  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+}
+
+.belle-input:disabled,
+.belle-select:disabled {
+  background-color: #f5f5f5;
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.belle-select {
+  cursor: pointer;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8'%3E%3Cpath fill='%23333' d='M0 0l6 8 6-8z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+  background-size: 12px;
+  padding-right: 40px;
+}
+
+.belle-button {
+  padding: 12px 24px;
+  border: 2px solid #e0e0e0;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: inherit;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  background-color: white;
+  color: #333;
+}
+
+.belle-button:hover:not(:disabled) {
+  background-color: #f8f8f8;
+  border-color: #c0c0c0;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.belle-button:active:not(:disabled) {
+  transform: translateY(0);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+.belle-button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.belle-button-primary {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-color: transparent;
+}
+
+.belle-button-primary:hover:not(:disabled) {
+  background: linear-gradient(135deg, #5568d3 0%, #653a8b 100%);
+  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+}
+
+.belle-button-primary:active:not(:disabled) {
+  background: linear-gradient(135deg, #4557bc 0%, #542f74 100%);
+}
